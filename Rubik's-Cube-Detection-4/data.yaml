@@ -1,0 +1,12 @@
+names:
+- Rubiks-Cube
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: rubik-s-cube-detection
+  url: https://universe.roboflow.com/michael-song/rubik-s-cube-detection/dataset/4
+  version: 4
+  workspace: michael-song
+test: ../test/images
+train: ../train/images
+val: ../valid/images
