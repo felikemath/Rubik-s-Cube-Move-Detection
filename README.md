@@ -1,4 +1,4 @@
-# Rubik's Cube Move Detection
+# Vision-based Rubik's Cube Move Detection
 
 <br></br>
 **Michael Song**
